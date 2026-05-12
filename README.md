@@ -36,7 +36,6 @@ y mucho más... <br/>
 ## Screenshots
 
 | ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/PelukApp-Movil/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/PelukApp-Movil/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/PelukApp-Movil/refs/heads/main/assets/screenshots/03.jpg) | 
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ---
