@@ -1,14 +1,10 @@
-<i>Beatly</i> es una aplicación para transmitir música. Sus características incluyen:
+<i>PelukApp</i> Reproductor simple de música local. Sus características incluyen:
 
-* Búsqueda de canciones en línea con sugerencias.
-* Soporte para escuchar sin conexión
-* Importa y exporta tus datos y nunca los pierdas
-* Agregar listas de reproducción personalizadas con enlace
-* Experiencia de sonido optimizada
-* Soporte de bloque de patrocinadores
-* Ecualizador incorporado con ajustes preestablecidos
-* Soporte de letras
+* Crear playlists propias.
+* Agregar canciones desde archivos de audio del dispositivo.
+* Reordenar y eliminar pistas dentro de una playlist.
+* Reproducir audio con controles de play/pausa, siguiente y anterior.
+* Mantener la última playlist y volumen usados entre sesiones.
 * Sin anuncios
 * Sin suscripciones
-* Multi idioma
 * Interfaz de usuario de material, colores de acento y colores dinámicos (Android 12+)
