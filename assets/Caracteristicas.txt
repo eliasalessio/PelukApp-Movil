@@ -1,0 +1,14 @@
+<i>Beatly</i> es una aplicación para transmitir música. Sus características incluyen:
+
+* Búsqueda de canciones en línea con sugerencias.
+* Soporte para escuchar sin conexión
+* Importa y exporta tus datos y nunca los pierdas
+* Agregar listas de reproducción personalizadas con enlace
+* Experiencia de sonido optimizada
+* Soporte de bloque de patrocinadores
+* Ecualizador incorporado con ajustes preestablecidos
+* Soporte de letras
+* Sin anuncios
+* Sin suscripciones
+* Multi idioma
+* Interfaz de usuario de material, colores de acento y colores dinámicos (Android 12+)
