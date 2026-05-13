@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/eliasalessio/PelukApp-Movil/refs/heads/main/assets/img/banner-03.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/eliasalessio/PelukApp-Movil/refs/heads/main/assets/img/banner.jpg" width="100%">
 
 # PelukApp
 
-Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
+La PelukApp es un reproductor de audio local diseñado para crear y reproducir playlists personales.
 
 [![Stars](https://img.shields.io/github/stars/eliasalessio/PelukApp-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/PelukApp-Movil/stargazers)
 [![Forks](https://img.shields.io/github/forks/eliasalessio/PelukApp-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/PelukApp-Movil/fork)
